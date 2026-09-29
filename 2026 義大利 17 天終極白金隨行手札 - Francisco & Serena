@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026 義大利 17 天終極白金隨行手札 - Francisco & Serena</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Playfair+Display:ital,wght@0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Noto Sans TC', sans-serif; background-color: #f8f6f0; color: #2b2b2b; -webkit-font-smoothing: antialiased; }
+    .serif-title { font-family: 'Playfair Display', serif; }
+    a.map-link { color: #b45309; text-decoration: underline; text-decoration-color: #fcd34d; text-underline-offset: 3px; font-weight: 600; transition: all 0.2s;}
+    a.map-link:hover { color: #78350f; background-color: #fef3c7; }
+    .ticket-badge { background: linear-gradient(135deg, #fbbf24 0%, #d97706 100%); color: white; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem; font-weight: 700; display: inline-flex; align-items: center; }
+    .print-checkbox { width: 14px; height: 14px; border: 1.5px solid #78716c; border-radius: 3px; display: inline-block; margin: 0 auto; }
+    @media print {
+      @page { size: A4 portrait; margin: 8mm 10mm; }
+      body { background-color: #ffffff !important; }
+      .no-print { display: none !important; }
+      .page-break { page-break-before: always; break-before: page; }
+      .card-avoid-break { page-break-inside: avoid; break-inside: avoid; margin-bottom: 15px !important; }
+      .shadow-md, .shadow-lg, .shadow-sm { box-shadow: none !important; border: 1px solid #e5e7eb; }
+      a.map-link { text-decoration: none; color: #2b2b2b; }
+    }
+  </style>
+</head>
+<body class="p-3 sm:p-6 md:p-8 max-w-5xl mx-auto">
+
+  <!-- 列印按鈕 -->
+  <div class="no-print sticky top-3 z-50 flex justify-between items-center bg-white/95 backdrop-blur shadow-md rounded-2xl p-3 mb-6 border border-stone-200">
+    <div class="flex items-center space-x-2">
+      <span class="w-3 h-3 rounded-full bg-red-600 animate-pulse"></span>
+      <span class="text-xs font-bold text-stone-800">100% 零省略・白金無刪減版</span>
+    </div>
+    <button onclick="window.print()" class="bg-gradient-to-r from-stone-800 to-stone-900 text-white font-medium text-xs sm:text-sm px-4 py-2 rounded-xl shadow transition">
+      🖨️ 存為隨身 PDF
+    </button>
+  </div>
+
+  <!-- 封面 -->
+  <div class="bg-gradient-to-br from-stone-900 via-stone-800 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl mb-6 card-avoid-break">
+    <div class="inline-block bg-amber-500/20 text-amber-300 text-xs px-3 py-1 rounded-full uppercase tracking-wider font-semibold mb-3">
+      Private Honeymoon & Luxury Tour
+    </div>
+    <h1 class="serif-title text-3xl sm:text-4xl font-bold tracking-wide text-amber-100 mb-2">
+      Italia Splendida 2026
+    </h1>
+    <p class="text-stone-300 text-sm sm:text-base font-light mb-4">
+      Francisco & Serena 義大利 17 天終極隨行手札
+    </p>
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs border-t border-stone-700 pt-4 text-stone-300">
+      <div><span class="text-stone-400 block">日期</span>10/09 - 10/26</div>
+      <div><span class="text-stone-400 block">最終確認</span>10/24 競技場頂層</div>
+      <div><span class="text-stone-400 block">最強套票</span>烏菲茲 Passepartout 五日票</div>
+      <div><span class="text-stone-400 block">住宿異動</span>10/23 換宿 Casa Vicenza</div>
+    </div>
+  </div>
+
+  <!-- ==================== 行李清單 ==================== -->
+  <h2 class="text-stone-800 font-black text-2xl mb-4 text-center serif-title tracking-widest mt-8">— 🧳 完整行李檢核表 (10月氣候適用) —</h2>
+  <div class="bg-stone-50 border border-stone-200 rounded-3xl p-5 mb-8 card-avoid-break">
+    <p class="text-sm text-stone-600 mb-4">義大利10月秋季日夜溫差大，北部10-18°C，中南部15-24°C。此清單為 17 天行程（帶 8 天份替換）之最佳配置：</p>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <!-- 衣物 -->
+      <table class="w-full text-xs sm:text-sm text-left border-collapse bg-white rounded-xl overflow-hidden shadow-sm">
+        <thead class="bg-stone-200 text-stone-700"><tr><th class="p-2 w-10 text-center">✓</th><th class="p-2">👕 衣物與配件</th><th class="p-2 text-center w-16">數量</th></tr></thead>
+        <tbody class="divide-y divide-stone-100 border border-stone-200">
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">短袖 T-shirt / 內搭 (南部白天穿)</td><td class="p-2 text-center">4件</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">薄長袖 / SATUR 質感襯衫</td><td class="p-2 text-center">4-5件</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">中厚度毛衣 / 大學T (防風保暖)</td><td class="p-2 text-center">2件</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">防風防潑水薄外套 (輕便收納)</td><td class="p-2 text-center">1件</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">保暖防寒外套 / 經典風衣</td><td class="p-2 text-center">1件</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">休閒長褲 / 牛仔褲 (避開厚發熱褲)</td><td class="p-2 text-center">4件</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">貼身內衣褲 / 吸汗襪子</td><td class="p-2 text-center">各8-10</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">舒適睡衣褲 (歐洲冷暖氣不穩)</td><td class="p-2 text-center">2套</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">太陽眼鏡 / 輕便折疊傘</td><td class="p-2 text-center">各1把</td></tr>
+        </tbody>
+      </table>
+
+      <!-- 鞋子與盥洗與3C -->
+      <table class="w-full text-xs sm:text-sm text-left border-collapse bg-white rounded-xl overflow-hidden shadow-sm">
+        <thead class="bg-stone-200 text-stone-700"><tr><th class="p-2 w-10 text-center">✓</th><th class="p-2">👟 鞋類、保養盥洗與 3C</th><th class="p-2 text-center w-16">數量</th></tr></thead>
+        <tbody class="divide-y divide-stone-100 border border-stone-200">
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2 font-bold text-amber-800">亞瑟士 GEL-NIMBUS 28 步行鞋</td><td class="p-2 text-center">1雙</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">備用休閒鞋 / 房內輕便拖鞋</td><td class="p-2 text-center">各1雙</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">Medicube 臉部保濕保養品</td><td class="p-2 text-center">1套</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">悠斯晶 (Yuskin) 護手足霜</td><td class="p-2 text-center">1罐</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2 font-bold text-red-600">牙刷與牙膏 (歐洲 90% 不提供)</td><td class="p-2 text-center">2套</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">常備藥品 (腸胃/止痛/感冒/OK繃)</td><td class="p-2 text-center">1包</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">萬國轉接頭 (義大利雙孔/三孔圓柱)</td><td class="p-2 text-center">3個</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">行動電源 (重度導航必備) / 線材</td><td class="p-2 text-center">2顆</td></tr>
+          <tr><td class="p-2 text-center"><span class="print-checkbox"></span></td><td class="p-2">iPhone 16 Plus / Apple Watch</td><td class="p-2 text-center">隨身</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="page-break"></div>
+
+  <!-- ==================== 每日詳細行程 ==================== -->
+  <h2 class="text-stone-800 font-black text-2xl mb-6 text-center serif-title tracking-widest">— 📅 17天逐日時段全紀錄 —</h2>
+  <div class="space-y-6">
+
+    <!-- Day 01 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 01｜10/09 (五) 啟程：台北 ✈️ 米蘭</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>16:25</strong> 抵達 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Taoyuan+International+Airport+Terminal+2" target="_blank">桃園機場 T2</a> 辦理報到，託運 30kg 行李。確認護照與歐盟申根保險。</p>
+        <p><strong>19:25</strong> ✈️ 搭乘阿提哈德 EY819 起飛前往阿布達比，轉機 EY81 直飛米蘭。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 長途飛行建議隨身準備小瓶保濕噴霧、護唇膏與頸枕。提前下載好影音至手機或平板。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 02 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 02｜10/10 (六) 米蘭：大教堂與最後的晚餐</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>06:45</strong> 抵達 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Malpensa+Airport" target="_blank">米蘭 MXP 機場</a>，搭乘 Malpensa Express 機場快線。</p>
+        <p><strong>09:30</strong> 入住寄放行李於 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Hotel+Colombia+Milano" target="_blank">Hotel Colombia</a> (米蘭中央車站步行 3 分鐘)。</p>
+        <p><strong>10:30</strong> 漫步 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Galleria+Vittorio+Emanuele+II" target="_blank">艾曼紐二世迴廊</a> 踩金屬公牛祈福，參觀全義最美 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Starbucks+Reserve+Roastery+Milano" target="_blank">星巴克臻選烘焙工坊</a>。</p>
+        <p><strong>12:30</strong> 午餐時光 (見下方米蘭餐廳推薦)。</p>
+        <p class="text-red-700 font-bold bg-red-50 p-2 rounded border border-red-200">🚨 15:15 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Santa+Maria+delle+Grazie+Milan" target="_blank">恩寵聖母教堂《最後的晚餐》</a> (代碼 TLCENV001214200907，提早 20 分換票)</p>
+        <p><strong>17:00</strong> <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Duomo+di+Milano" target="_blank">米蘭大教堂 (Duomo)</a> 電梯登頂，穿梭哥德式大理石尖塔欣賞夕陽市景。</p>
+        <p><strong>19:30</strong> 晚餐時光。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 遇雨若無法登大教堂屋頂，可改去室內的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Pinacoteca+di+Brera" target="_blank">布雷拉畫廊 (Pinacoteca di Brera)</a>，或提早至運河區 (Navigli) 找間酒吧躲雨喝咖啡。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 03 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 03｜10/11 (日) 米蘭 ➡️ 維洛那 (Verona)</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>09:00</strong> 漫步米蘭 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Castello+Sforzesco" target="_blank">斯福爾扎城堡</a> 與廣闊的森皮奧內公園。</p>
+        <p><strong>11:35</strong> 🚄 高鐵 Italo 8981 (Car 1 / 座位 42, 41) ➡️ <strong>12:47</strong> 抵達 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Verona+Porta+Nuova" target="_blank">維洛那車站</a>。</p>
+        <p><strong>13:00</strong> 入住 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Hotel+Novo+Rossi+Verona" target="_blank">Hotel Novo Rossi</a> (出車站右轉步行即可，極速放妥行李)。</p>
+        <p><strong>14:30</strong> 漫步布拉廣場，朝聖保存完好的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Arena+di+Verona" target="_blank">古羅馬圓形競技場</a>。</p>
+        <p><strong>16:30</strong> 造訪 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Casa+di+Giulietta+Verona" target="_blank">茱麗葉之家</a>，觸摸銅像祈求愛情順利。接著爬坡或搭纜車登 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Castel+San+Pietro+Verona" target="_blank">聖彼得城堡 (Castel S. Pietro)</a> 俯瞰全城紅瓦。</p>
+        <p><strong>19:00</strong> 晚餐與微醺時光 (推薦喝杯在地 Amarone 紅酒)。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 若茱麗葉之家排隊太瘋狂，可改至旁邊的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Piazza+delle+Erbe+Verona" target="_blank">百草廣場 (Piazza delle Erbe)</a> 逛市集，或參觀紅磚相間的老城堡 (Castelvecchio)。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 04 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 04｜10/12 (一) 維洛那 ➡️ 威尼斯 (Venezia)</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>10:49</strong> 🚄 高鐵 Italo 8977 (Car 1 / 座位 21, 20) ➡️ <strong>12:03</strong> 跨越跨海鐵道抵達 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Venezia+Santa+Lucia" target="_blank">威尼斯 S. Lucia</a>。</p>
+        <p><strong>12:20</strong> 入住 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Hotel+Villa+Rosa+Venice" target="_blank">Hotel Villa Rosa</a> (選此免扛行李上拱橋)。</p>
+        <p><strong>14:00</strong> 穿梭水都迷宮，前往 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Piazza+San+Marco" target="_blank">聖馬可廣場</a>，欣賞拜占庭風格的聖馬可大教堂與總督宮旁的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Bridge+of+Sighs+Venice" target="_blank">嘆息橋</a>。</p>
+        <p><strong>16:30</strong> 登上 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Ponte+di+Rialto" target="_blank">里奧托橋 (Ponte di Rialto)</a> 捕捉大運河金黃夕陽與繁忙的貢多拉船影。</p>
+        <p><strong>18:30</strong> 體驗威尼斯站立酒館文化 (Cicchetti) 吃海鮮小點。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 聖馬可廣場人多時，可提前上網預約免費的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=T+Fondaco+dei+Tedeschi" target="_blank">T Fondaco dei Tedeschi 免稅百貨頂樓觀景台</a> 俯瞰 360 度威尼斯全景。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 05 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 05｜10/13 (二) 威尼斯跳島：彩色島與玻璃島</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>08:45</strong> 於車站前碼頭購買 ACTV 水上巴士 24 小時券 (€25/人，善用永豐 SPORT 卡 Apple Pay 扣款)。</p>
+        <p><strong>09:30</strong> 搭乘 12 號水上巴士前往 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Burano+Venice" target="_blank">彩色島 (Burano)</a>。盡情拍攝馬卡龍色的繽紛小屋，品嚐在地蕾絲餅乾 Bussolà。</p>
+        <p><strong>14:00</strong> 轉船前往 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Murano+Venice" target="_blank">玻璃島 (Murano)</a>，找間工坊參觀傳承百年的手工吹玻璃藝術。</p>
+        <p><strong>17:00</strong> 返回本島 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Ponte+dell'Accademia" target="_blank">學院橋</a> 附近，坐在運河邊喝 Aperol Spritz 欣賞對岸的貢多拉造船廠。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 若跳島提早結束，可多搭一站去威尼斯發源地 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Torcello+Venice" target="_blank">托爾切洛島 (Torcello)</a>，人跡罕至非常清幽；或回到本島自費登聖馬可鐘樓。
+        </div>
+      </div>
+    </div>
+
+    <div class="page-break"></div>
+
+    <!-- Day 06 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 06｜10/14 (三) 威尼斯 ➡️ 佛羅倫斯 (Firenze)</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>09:30</strong> 探訪威尼斯最奇特景點：書本放浴缸防淹水的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Libreria+Acqua+Alta" target="_blank">沉船書店</a>。</p>
+        <p><strong>12:05</strong> 🚄 高鐵 Italo 8929 (Car 1 / 座位 42, 41) ➡️ <strong>14:20</strong> 抵達文藝復興之都 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Firenze+Santa+Maria+Novella" target="_blank">佛羅倫斯 SMN</a>。</p>
+        <p><strong>14:50</strong> 入住 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Affittacamere+ALBA+Florence" target="_blank">Affittacamere ALBA</a> (位於車站旁，為接下來多日的托斯卡尼核心基地)。</p>
+        <p><strong>15:45</strong> 震撼朝聖 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Cathedral+of+Santa+Maria+del+Fiore" target="_blank">聖母百花大教堂</a> 巨大的紅色穹頂與喬托鐘樓。</p>
+        <p><strong>18:00</strong> 走往 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Ponte+Vecchio+Florence" target="_blank">老橋 (Ponte Vecchio)</a> 欣賞亞諾河絕美日落。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 傍晚老橋若擠滿遊客，推薦轉往旁邊的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Piazza+della+Signoria" target="_blank">領主廣場 (Piazza della Signoria)</a> 欣賞免門票的戶外雕像迴廊 (海神噴泉、珀耳修斯青銅像)。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 07 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 07｜10/15 (四) 比薩斜塔 ➡️ 五漁村 DIY</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>07:28 / 07:53</strong> 🚆 佛羅倫斯搭區間快車至 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Pisa+Centrale" target="_blank">Pisa Centrale</a> (當天 App 買票即可)。</p>
+        <p><strong>08:50</strong> 抵達奇蹟廣場，拍攝必備的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Leaning+Tower+of+Pisa" target="_blank">比薩斜塔</a> 推塔借位照。</p>
+        <p><strong>10:12</strong> 🚆 搭車直達 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=La+Spezia+Centrale" target="_blank">La Spezia Centrale</a> 購買 Cinque Terre Card 五漁村通票。</p>
+        <p><strong>11:30 - 18:30</strong> 🌊 <strong>五漁村巡禮</strong>：<br>
+           • <strong>Monterosso</strong>：享受寬闊的地中海沙灘與漸層海水。<br>
+           • <strong>Vernazza</strong>：絕美海港村莊，午餐大吃現炸紙包海鮮。<br>
+           • <strong>Manarola</strong>：16:30 抵達海濱步道觀景台，看夕陽將懸崖彩色房子染成金色。
+        </p>
+        <p class="font-bold text-emerald-700 bg-emerald-50 p-2 rounded">🚆 20:12 搭快車 IC 679 ➡️ 21:51 直達佛羅倫斯 SMN (免換車，一路睡回飯店！)。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 若海邊天候不佳狂風暴雨，立刻放棄五漁村！在比薩待久一點後，搭半小時火車轉往附近的絕美高牆中世紀古城 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Lucca+Italy" target="_blank">盧卡 (Lucca)</a> 騎腳踏車。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 08 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 08｜10/16 (五) 佛羅倫斯雙美術館 ＆ 丁骨牛排</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p class="font-bold text-amber-700">🚨 08:30 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Galleria+dell'Accademia" target="_blank">學院美術館 (大衛像)</a> (代碼 LL3JMR6P，提早 15 分入場)</p>
+        <p><strong>11:30</strong> 前往中央市場，吃知名百年老攤 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Da+Nerbone+Florence" target="_blank">Da Nerbone</a> 的綠醬燉牛肚包。</p>
+        <p class="font-bold text-amber-700">🚨 13:15 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Uffizi+Gallery" target="_blank">烏菲茲美術館</a> (代碼 8QZCTSYG，Door 3 換實體票)。<br>
+        <span class="ticket-badge mt-1 text-xs">🎫 啟動 Passepartout 5 Days 效期</span></p>
+        <p><strong>16:30</strong> 朝聖 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Officina+Profumo-Farmaceutica+di+Santa+Maria+Novella" target="_blank">SMN 百年修道院藥妝店</a>，空間宛如博物館，採購薔薇水香氛。</p>
+        <p class="font-bold text-rose-800 bg-rose-50 p-2 rounded border border-rose-200">🥩 19:00 已訂位：<a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Trattoria+Dall'Oste+Firenze" target="_blank">Trattoria Dalloste</a> 大啖 1.2kg 炭烤丁骨大牛排！</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 看完大衛像到中午的空檔，可順道去附近的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Museo+Archeologico+Nazionale+di+Firenze" target="_blank">國立考古博物館</a>，持您今天啟用的 Passepartout 5日票可 <strong>免費免預約進入</strong> 參觀古埃及文物！
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 09 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 09｜10/17 (六) 托斯卡尼心臟：西恩納 (Siena)</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>08:10 或 08:40</strong> 🚌 從 SMN 車站旁巴士總站搭乘 <strong>131R 快線巴士</strong> 直達西恩納舊城區 Piazza Gramsci (免搭火車爬長坡)。</p>
+        <p><strong>09:40</strong> 漫步被列為世界文化遺產的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Piazza+del+Campo+Siena" target="_blank">貝殼廣場 (Piazza del Campo)</a> 與高聳的曼賈塔樓。</p>
+        <p><strong>11:30</strong> 參觀黑白斑馬紋大理石瑰寶 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Duomo+di+Siena" target="_blank">西恩納主教座堂</a>。</p>
+        <p><strong>13:00</strong> 午餐必點托斯卡尼在地手工粗麵 <strong>Pici</strong> (野豬肉醬或黑松露醬風味極佳)。</p>
+        <p><strong>16:00</strong> 搭乘 131R 巴士悠閒返回佛羅倫斯。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 若早上巴士總站排隊人潮過長或客滿，可立即改搭國鐵火車前往 Siena，抵達後在火車站底層搭乘隱藏版超長手扶梯或轉乘市區公車上山進古城。
+        </div>
+      </div>
+    </div>
+
+    <div class="page-break"></div>
+
+    <!-- Day 10 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 10｜10/18 (日) 佛羅倫斯南岸宮殿與浪漫夕陽</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>09:30</strong> 參觀美第奇家族宏偉官邸 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Palazzo+Pitti+Florence" target="_blank">皮蒂宮 (Palazzo Pitti)</a>。<br>
+        <span class="ticket-badge mt-1 text-xs">🎫 持 Passepartout 5日票 免費免預約入內</span></p>
+        <p><strong>11:00</strong> 漫步皇家後花園 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Giardino+di+Boboli" target="_blank">波波里花園 (Boboli Gardens)</a>。<br>
+        <span class="ticket-badge mt-1 text-xs">🎫 持 Passepartout 5日票 免費免預約入內</span></p>
+        <p><strong>12:30</strong> 午餐：南岸排隊名店 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Gusta+Pizza+Florence" target="_blank">Gusta Pizza</a>，點份招牌心型披薩外帶吃。</p>
+        <p><strong>14:30</strong> 穿梭聖靈廣場 (Piazza Santo Spirito) 的文創手作工藝與皮革小店。</p>
+        <p><strong>17:00</strong> 登 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Piazzale+Michelangelo" target="_blank">米開朗基羅廣場</a>，這是佛羅倫斯最完美視角，俯瞰百花大教堂全景夕陽暮色。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 下午若南岸走累了，可去參觀旁邊的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Piazza+Santo+Spirito" target="_blank">聖神大殿</a>，或去 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Mercato+di+Sant'Ambrogio" target="_blank">聖安布羅喬市場 (Sant'Ambrogio)</a> 感受更道地、無觀光客的在地市場生活。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 11 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 11｜10/19 (一) 佛羅倫斯 ➡️ 拿坡里 ➡️ 龐貝</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>08:43</strong> 🚄 高鐵 Italo 8111 (Car 1 / 座位 25, 28) ➡️ <strong>11:43</strong> 抵達 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Napoli+Centrale" target="_blank">拿坡里中央車站</a>。</p>
+        <p><strong>12:15</strong> 至地下一樓轉乘 Circumvesuviana 私鐵前往龐貝 (車程約35分鐘。拿坡里車站龍蛇雜處，後背包務必往前背！)。</p>
+        <p><strong>13:00</strong> 入住龐貝車站附近的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=B%26B+Studio83+Pompei" target="_blank">B&B Studio83</a> 放下行李。</p>
+        <p><strong>14:00 - 18:00</strong> 深度探索被維蘇威火山灰封存千年的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Pompeii+Archaeological+Park" target="_blank">龐貝古城遺跡</a>，漫步馬車車轍與千年壁畫間。</p>
+        <p><strong>19:00</strong> 晚餐享用 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Pizzeria+Da+Franco+Pompei" target="_blank">Pizzeria Da Franco</a> 的正宗南義現烤薄脆披薩。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 抵達龐貝若下大雨，古城戶外無處躲避，建議改搭私鐵去較小但室內壁畫保存極完美的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Herculaneum" target="_blank">赫庫蘭尼姆古城 (Ercolano)</a>，或回拿坡里市區逛室內的國立考古博物館。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 12 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 12｜10/20 (二) 卡布里島 (Capri)：藍洞與纜車</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>09:30</strong> 龐貝搭私鐵至 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Port+of+Sorrento" target="_blank">蘇連多港口 (Sorrento)</a>。</p>
+        <p><strong>10:45</strong> 🚢 搭乘快船直飛 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Marina+Grande+Capri" target="_blank">卡布里島 Marina Grande 港口</a>。</p>
+        <p><strong>11:35</strong> 抵港後立刻搭橘色小巴或敞篷跳表計程車上山，入住絕美莊園 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Il+Sogno+Anacapri" target="_blank">Il Sogno Anacapri</a>。</p>
+        <p><strong>13:30</strong> 從安娜卡布里搭公車前往 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Blue+Grotto+Capri" target="_blank">藍洞 (Grotta Azzurra)</a> 換乘小木船入洞 (需備妥現金給船夫小費)。</p>
+        <p><strong>16:00</strong> 搭乘驚險浪漫的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Monte+Solaro+Chairlift" target="_blank">Monte Solaro 單人纜車</a> 登頂，腳懸半空俯瞰地中海全景。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 若抵達港口看見掛紅旗代表藍洞因海象關閉，千萬別氣餒，立刻在碼頭買票參加「卡布里環島遊船 (Island Tour)」，從海上近距離穿越巨大的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Faraglioni+Capri" target="_blank">情人石 (Faraglioni)</a>，體驗不輸藍洞。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 13 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 13｜10/21 (三) 卡布里花園 ➡️ 拿坡里 ➡️ 羅馬</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>09:00</strong> 參觀安娜卡布里絕美莊園 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Villa+San+Michele+Capri" target="_blank">Villa San Michele</a> 花園。</p>
+        <p><strong>11:00</strong> 搭車下山至卡布里主鎮，漫步 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Gardens+of+Augustus" target="_blank">奧古斯都花園</a> 眺望奇岩情人石。</p>
+        <p><strong>15:38</strong> 🚢 搭乘快船離開卡布里 ➡️ <strong>16:30</strong> 抵達拿坡里 Beverello 碼頭。</p>
+        <p><strong>17:00</strong> 於拿坡里車站旁晚餐：百年老店 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Da+Donato+dal+1956+Napoli" target="_blank">Da Donato dal 1956</a> 狂啖海鮮番茄麵。</p>
+        <p><strong>19:20</strong> 🚄 高鐵 Italo 9962 (Car 2 / 座位 2, 3) ➡️ <strong>20:30</strong> 抵達羅馬 Termini 車站。</p>
+        <p><strong>21:00</strong> 入住 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Persia+Collection+Trevi" target="_blank">Persia Collection Trevi</a>，夜探無人空景的特萊維許願池。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 在拿坡里若不想吃正餐，可至百年名店 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=L'Antica+Pizzeria+da+Michele" target="_blank">Da Michele</a> 體驗《享受吧！一個人的旅行》茱莉亞羅勃茲吃的最原始瑪格麗特披薩。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 14 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 14｜10/22 (四) 羅馬：梵蒂岡國中之國</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>08:30</strong> 通過免費安檢，進入世界最大 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=St.+Peter's+Basilica" target="_blank">聖伯多祿大教堂</a>，推薦自費搭電梯登頂俯瞰宛如鑰匙形狀的聖伯多祿廣場。</p>
+        <p class="font-bold text-amber-700">🚨 13:00 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Vatican+Museums" target="_blank">梵蒂岡博物館與西斯汀禮拜堂</a> (代碼 2L2NFLFQ19XTF1TVZ，請提早 20 分抵達專屬入口)</p>
+        <p><strong>17:00</strong> 沿協和大道散步至 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Castel+Sant'Angelo" target="_blank">聖天使城堡</a> 與聖天使橋，欣賞台伯河畔羅馬夕陽。</p>
+        <p><strong>18:30</strong> 甜點：羅馬最強杯裝提拉米蘇 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Two+Sizes+Rome" target="_blank">Two Sizes</a>。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 梵蒂岡逛完往往腳已半殘，若不想再走進聖天使城堡內爬樓梯，推薦過橋到對岸的咖啡廳點杯 Aperitivo，坐看梵蒂岡大門與協和大道的美麗夜景。
+        </div>
+      </div>
+    </div>
+
+    <div class="page-break"></div>
+
+    <!-- Day 15 (換宿) -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border-2 border-indigo-300 card-avoid-break">
+      <h3 class="text-lg font-bold text-indigo-900 border-b border-indigo-100 pb-2 mb-3">Day 15｜10/23 (五) 換宿 Termini ＆ 羅馬市區慢遊</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p class="font-bold text-indigo-800">🏨 08:00 換宿動線：許願池飯店退房，搭車至 Termini 旁的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Guest+House+Casa+Vicenza+Rome" target="_blank">Casa Vicenza</a> 寄放行李。</p>
+        <p class="font-bold text-amber-700">🚨 09:00 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Galleria+Borghese" target="_blank">博爾蓋塞美術館 (Galleria Borghese)</a> (請確保門票訂於今日。嚴格 2H 清場制，提早 20 分寄物)。</p>
+        <p><strong>12:30</strong> 參觀兩千年無鋼筋圓頂奇蹟 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Pantheon+Rome" target="_blank">萬神殿</a>，喝 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Tazza+d'Oro+Rome" target="_blank">金杯咖啡</a> 招牌冰沙。</p>
+        <p><strong>14:30</strong> 漫步 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Piazza+Navona" target="_blank">納沃納廣場 (Piazza Navona)</a> 欣賞貝尼尼四河噴泉。</p>
+        <p><strong>16:00</strong> <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Spanish+Steps" target="_blank">西班牙廣場</a> 與孔多蒂街自由購物與享受露天餐酒。</p>
+        <p><strong>18:00</strong> 返回 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Guest+House+Casa+Vicenza+Rome" target="_blank">Casa Vicenza</a> 正式入住 (確認單 TWD 8,281)。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 萬神殿若不想付費排隊，旁邊的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Chiesa+di+Sant'Ignazio+di+Loyola" target="_blank">聖依納爵堂</a> 擁有令人震撼的「3D錯覺立體穹頂壁畫」且免費入內，極致推薦！
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 16 (競技場頂層) -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border-2 border-red-300 card-avoid-break relative overflow-hidden">
+      <div class="absolute top-0 right-0 bg-red-600 text-white text-[10px] font-bold px-3 py-1 rounded-bl-lg">頂層解鎖</div>
+      <h3 class="text-lg font-bold text-red-900 border-b border-red-100 pb-2 mb-3">Day 16｜10/24 (六) 古羅馬榮耀與頂層震撼</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p><strong>10:30</strong> 從 Casa Vicenza 步行至 Termini 站，搭 Metro B 線直達 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Colosseo+Station+Rome" target="_blank">Colosseo 站</a> (僅兩站)。</p>
+        <p class="font-bold text-white bg-red-700 p-3 rounded-lg shadow-sm my-2 text-center text-base tracking-widest">
+          🌟 11:10 <a href="https://www.google.com/maps/search/?api=1&query=Colosseum+Rome" target="_blank" class="text-white underline">羅馬競技場：頂層 (Top Level) 入場！</a> 🌟
+        </p>
+        <p><strong>13:00</strong> 漫步 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Roman+Forum" target="_blank">古羅馬廣場</a> 與帕拉提諾之丘。</p>
+        <p><strong>14:30</strong> 散步至科斯美汀聖母堂，打卡電影場景 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Mouth+of+Truth+Rome" target="_blank">真理之口</a>。</p>
+        <p><strong>16:00</strong> 漫步重回 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Trevi+Fountain" target="_blank">特萊維許願池</a> 投擲硬幣，吃百年 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Giolitti+Rome" target="_blank">Giolitti</a> 冰淇淋。</p>
+        <p><strong>19:00</strong> 晚餐：<a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Osteria+da+Fortunata+Rome" target="_blank">Osteria da Fortunata</a> (現場手工現擀培根蛋黃麵)。</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> 競技場結束後若想從高處俯瞰整個古羅馬遺跡，可走到威尼斯廣場的 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Altare+della+Patria" target="_blank">維托里亞諾紀念堂 (打字機建築)</a> 搭乘後方的全景玻璃電梯登頂。
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 17-18 -->
+    <div class="bg-white rounded-2xl p-5 shadow-sm border border-stone-200 card-avoid-break">
+      <h3 class="text-lg font-bold text-stone-800 border-b border-stone-200 pb-2 mb-3">Day 17-18｜10/25 (日) - 10/26 (一) 羅馬 ✈️ 台北</h3>
+      <div class="text-sm space-y-2 text-stone-700">
+        <p class="font-bold text-emerald-800 bg-emerald-50 p-2 rounded">🚄 07:00 從 Casa Vicenza 步行 6 分鐘直達 Termini 月台搭 Leonardo Express，免除清晨羅馬叫車與塞車風險！</p>
+        <p><strong>07:30</strong> 抵達 <a class="map-link" href="https://www.google.com/maps/search/?api=1&query=Rome+Fiumicino+Airport" target="_blank">羅馬 FCO 機場 T3</a> 辦理退稅手續與託運。</p>
+        <p><strong>10:25</strong> ✈️ 阿提哈德 EY86 起飛，經阿布達比轉機 EY898。</p>
+        <p><strong>10/26 09:00</strong> 平安返抵台灣，完成 17 天深度極致之旅！</p>
+        <div class="bg-stone-100 p-2 rounded text-xs mt-2 border-l-4 border-stone-400">
+          <strong>💡 備案與建議：</strong> FCO 第三航廈免稅店極大，若退稅迅速入關，可在此採購義大利頂級 Amedei 巧克力與皮件。
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="page-break"></div>
+
+  <!-- ==================== 10大城市 150間神級餐廳/酒吧總表 ==================== -->
+  <h2 class="text-stone-800 font-black text-2xl mb-4 text-center serif-title tracking-widest mt-8">— 🍽️ 義大利 10 城私房餐酒白金指南 —</h2>
+  <div class="bg-amber-50/30 border border-amber-200 rounded-3xl p-4 mb-8">
+    <p class="text-xs text-stone-600 mb-4 text-center">本區包含全行程 10 大城鎮，每日依「高CP值午餐 (<€15)」、「經典晚餐」與「微醺酒吧」三大類，各列 5 間 4.3★ 以上在地嚴選名單，所有標題皆可直接點擊開啟地圖導航。</p>
+    
+    <div class="grid grid-cols-1 gap-4">
+      
+      <!-- 米蘭 -->
+      <div class="bg-white rounded-xl border border-stone-200 shadow-sm p-3 card-avoid-break">
+        <h3 class="font-black text-stone-800 text-lg border-b border-amber-200 pb-1 mb-2">1. 📍 米蘭 (Milano)</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div><strong class="text-emerald-700 block mb-1">🍝 午餐 (高CP值)</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Luini+Milano">Luini (4.5★)</a> 炸起司餃</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trapizzino+Milano">Trapizzino (4.5★)</a> 燉菜口袋披薩</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Macelleria+Popolare+Milano">Macelleria Popolare (4.4★)</a> 肉舖烤串</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Miscusi+Milano">Miscusi (4.4★)</a> 手工義麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pasta+a+Gogo+Milano">Pasta a Gogo (4.4★)</a> 外帶濃郁麵杯</li>
+            </ul>
+          </div>
+          <div><strong class="text-amber-700 block mb-1">🥩 經典晚餐</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trattoria+Milanese">Trattoria Milanese</a> 番紅花燉飯</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+Fara+Milano">Osteria Fara</a> 在地餐館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Ratanà+Milano">Ratanà</a> 新派倫巴底菜</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Piz+Milano">Piz</a> 歡樂現烤披薩</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Ristorante+Nabucco+Milano">Ristorante Nabucco</a> 布雷拉區氣氛佳</li>
+            </ul>
+          </div>
+          <div><strong class="text-indigo-700 block mb-1">🍷 魅力酒吧</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Bar+Basso+Milano">Bar Basso</a> Negroni發源地</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Camparino+in+Galleria">Camparino</a> 迴廊傳奇酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=N'Ombra+de+Vin">N'Ombra de Vin</a> 酒窖風格</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Mag+Cafe+Milano">Mag Cafe</a> 運河區超人氣</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Nottingham+Forest+Milano">Nottingham Forest</a> 分子調酒</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- 維洛那 -->
+      <div class="bg-white rounded-xl border border-stone-200 shadow-sm p-3 card-avoid-break">
+        <h3 class="font-black text-stone-800 text-lg border-b border-amber-200 pb-1 mb-2">2. 📍 維洛那 (Verona)</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div><strong class="text-emerald-700 block mb-1">🍝 午餐 (高CP值)</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Focacceria+La+Figaccia">La Figaccia</a> 爆料佛卡夏</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Salumeria+Gironda">Salumeria Gironda</a> 河畔火腿起司盤</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+Caffè+Monte+Baldo">Monte Baldo</a> 豐富小塔可吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Peperino+Verona">Peperino</a> 平價南義披薩</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Piadineria+Verona">La Piadineria</a> 義式烤餅</li>
+            </ul>
+          </div>
+          <div><strong class="text-amber-700 block mb-1">🥩 經典晚餐</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+del+Bugiardo+Verona">Osteria del Bugiardo</a> 肉品配紅酒</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trattoria+al+Pompiere">Trattoria al Pompiere</a> 頂級冷肉</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Ristorante+Greppia">Ristorante Greppia</a> 典雅庭院老店</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+Macafame">Osteria Macafame</a> 家常義麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Locanda+4+Cuochi">Locanda 4 Cuochi</a> 創意新派料理</li>
+            </ul>
+          </div>
+          <div><strong class="text-indigo-700 block mb-1">🍷 魅力酒吧</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=The+Soda+Jerk+Verona">The Soda Jerk</a> 隱密質感調酒</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Archivio+Verona">Archivio</a> 在地年輕人愛店</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Terrazza+Bar+Al+Ponte">Bar Al Ponte</a> 河畔露台賞夜景</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+Sottocosta">Osteria Sottocosta</a> 廣場氣氛佳</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Romeo+cocktail+bar">Romeo cocktail bar</a> 茱麗葉家旁</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- 威尼斯 -->
+      <div class="bg-white rounded-xl border border-stone-200 shadow-sm p-3 card-avoid-break">
+        <h3 class="font-black text-stone-800 text-lg border-b border-amber-200 pb-1 mb-2">3. 📍 威尼斯 (Venezia)</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div><strong class="text-emerald-700 block mb-1">🍝 午餐 (高CP值)</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Bacareto+Da+Lele+Venice">Bacareto Da Lele</a> 佛心價三明治</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Farini+Venice">Farini</a> 超大烤披薩切片</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Dal+Moro's+Fresh+Pasta">Dal Moro's</a> 外帶墨魚麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Tuttinpiedi+Venice">Tuttinpiedi</a> 熱騰手工義麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Cantina+Do+Mori+Venice">Cantina Do Mori</a> 古老酒館海鮮小食</li>
+            </ul>
+          </div>
+          <div><strong class="text-amber-700 block mb-1">🥩 經典晚餐</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+alla+Frasca+Venice">Osteria alla Frasca</a> 靜謐海鮮餐館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trattoria+Al+Gazzettino">Al Gazzettino</a> 熱情澎湃海鮮麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+al+Squero+Venice">Osteria al Squero</a> 運河小食風景</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Cantina+Do+Spade">Cantina Do Spade</a> 炸海鮮配酒</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Paradiso+Perduto+Venice">Paradiso Perduto</a> 氣氛超嗨海鮮拼盤</li>
+            </ul>
+          </div>
+          <div><strong class="text-indigo-700 block mb-1">🍷 魅力酒吧</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Harry's+Bar+Venice">Harry's Bar</a> 貝里尼調酒發源地</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Il+Mercante+Venice">Il Mercante</a> 精品兩層樓調酒</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Time+Social+Bar+Venice">Time Social Bar</a> 氣氛極佳文青吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Chet+Bar+Venice">Chet Bar</a> 學生愛去平價酒館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Al+Timon+Venice">Al Timon</a> 坐船上喝酒超 chill</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- 佛羅倫斯 -->
+      <div class="bg-white rounded-xl border border-stone-200 shadow-sm p-3 card-avoid-break">
+        <h3 class="font-black text-stone-800 text-lg border-b border-amber-200 pb-1 mb-2">4. 📍 佛羅倫斯 (Firenze)</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div><strong class="text-emerald-700 block mb-1">🍝 午餐 (高CP值)</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=All'Antico+Vinaio+Florence">All'Antico Vinaio</a> 排隊巨霸三明治</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=I'+Girone+De'+Ghiotti+Florence">I' Girone De' Ghiotti</a> 在地人私藏三明治</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Da+Nerbone+Florence">Da Nerbone</a> 中央市場必吃牛肚包</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Gusta+Pizza+Florence">Gusta Pizza</a> 拿坡里心型披薩</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pino's+Sandwiches">Pino's Sandwiches</a> 老爹高質三明治</li>
+            </ul>
+          </div>
+          <div><strong class="text-amber-700 block mb-1">🥩 經典晚餐</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trattoria+Dalloste+Firenze">Trattoria Dalloste</a> 1.2kg 丁骨大牛排</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trattoria+Zà+Zà+Florence">Trattoria Zà Zà</a> 松露牛排與義麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+Santo+Spirito">Osteria Santo Spirito</a> 焗烤松露麵疙瘩</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trattoria+Mario+Florence">Trattoria Mario</a> 超道地吵雜老餐館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Buca+Mario+Florence">Buca Mario</a> 地窖頂級米其林推薦</li>
+            </ul>
+          </div>
+          <div><strong class="text-indigo-700 block mb-1">🍷 魅力酒吧</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Rasputin+Florence">Rasputin</a> 超隱密地下無招牌酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=The+Fusion+Bar+Florence">The Fusion Bar</a> 質感五星調酒</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Manifattura+Florence">Manifattura</a> 純義大利酒款調配</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Locale+Firenze">Locale Firenze</a> 宮殿改建世界前50大吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Mad+Souls+%26+Spirits">Mad Souls & Spirits</a> 輕鬆高CP值</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- 比薩 -->
+      <div class="bg-white rounded-xl border border-stone-200 shadow-sm p-3 card-avoid-break">
+        <h3 class="font-black text-stone-800 text-lg border-b border-amber-200 pb-1 mb-2">5. 📍 比薩 (Pisa)</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div><strong class="text-emerald-700 block mb-1">🍝 午餐 (高CP值)</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=I+Porci+Comodi+Pisa">I Porci Comodi</a> 爆量冷肉起司拼盤</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=L'Ostellino+Pisa">L'Ostellino</a> 大排長龍厚三明治</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=We+Love+Pasta+Pisa">We Love Pasta</a> 外帶手工麵盒</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Il+Peperoncino+Pisa">Il Peperoncino</a> 平價家常麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Panillino+Pisa">Panillino</a> 手作佛卡夏小點</li>
+            </ul>
+          </div>
+          <div><strong class="text-amber-700 block mb-1">🥩 經典晚餐</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+dei+Cavalieri+Pisa">Osteria dei Cavalieri</a> 托斯卡尼精緻菜</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Ristorante+Galileo+Pisa">Ristorante Galileo</a> 古典高雅餐酒館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=La+Taverna+di+Emma">La Taverna di Emma</a> 海鮮燉飯一絕</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Ristoro+Pecorino+Pisa">Ristoro Pecorino</a> 在地無菜單風格</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trattoria+Da+Stelio">Trattoria Da Stelio</a> 阿嬤溫馨家常菜</li>
+            </ul>
+          </div>
+          <div><strong class="text-indigo-700 block mb-1">🍷 魅力酒吧</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Sottobosco+Libri+%26+Café">Sottobosco Libri</a> 文青書店酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Orzo+Bruno+Pisa">Orzo Bruno</a> 在地精釀啤酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Sud+Pisa">Sud</a> 學生愛去平價調酒</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Cecco+Rivolta+Pisa">Cecco Rivolta</a> 溫馨葡萄酒館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Chupiteria+Pisa">Chupiteria</a> Shot專賣店</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- 五漁村 -->
+      <div class="bg-white rounded-xl border border-stone-200 shadow-sm p-3 card-avoid-break">
+        <h3 class="font-black text-stone-800 text-lg border-b border-amber-200 pb-1 mb-2">6. 📍 五漁村 (Cinque Terre / La Spezia)</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div><strong class="text-emerald-700 block mb-1">🍝 午餐 (高CP值)</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Il+Pescato+Cucinato+Vernazza">Il Pescato Cucinato</a> (Vernazza) 現炸海鮮</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Nessun+Dorma+Manarola">Nessun Dorma</a> (Manarola) 絕景冷盤</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Tutti+Fritti+Riomaggiore">Tutti Fritti</a> (Riomaggiore) 紙包炸魚蝦</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Kepri+Manarola">Kepri</a> (Manarola) 街頭海鮮小吃</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=La+Cantina+di+Miky+Monterosso">La Cantina di Miky</a> (Monterosso)</li>
+            </ul>
+          </div>
+          <div><strong class="text-amber-700 block mb-1">🥩 經典晚餐</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trattoria+dal+Billy+Manarola">Trattoria dal Billy</a> (Manarola) 懸崖海鮮</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Ristorante+Miky+Monterosso">Ristorante Miky</a> (Monterosso) 高檔義麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Belforte+Vernazza">Belforte</a> (Vernazza) 塔樓絕景海鮮</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Rio+Bistrot+Riomaggiore">Rio Bistrot</a> (Riomaggiore) 米其林指南</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+a+Cantina+de+Mananan">Osteria a Cantina de Mananan</a> (Corniglia)</li>
+            </ul>
+          </div>
+          <div><strong class="text-indigo-700 block mb-1">🍷 魅力酒吧</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Nessun+Dorma+Manarola">Nessun Dorma Bar</a> 白酒賞日落</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Bar+O'Netto+Riomaggiore">Bar O'Netto</a> 巷弄微醺</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Piè+de+Mà+Riomaggiore">Piè de Mà</a> (Riomaggiore) 懸崖看海</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Bar+La+Torre+Vernazza">Bar La Torre</a> 步道高點酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Enoteca+da+Eliseo+Monterosso">Enoteca da Eliseo</a> 豐富葡萄酒藏</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- 龐貝 -->
+      <div class="bg-white rounded-xl border border-stone-200 shadow-sm p-3 card-avoid-break">
+        <h3 class="font-black text-stone-800 text-lg border-b border-amber-200 pb-1 mb-2">7. 📍 龐貝 (Pompei)</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div><strong class="text-emerald-700 block mb-1">🍝 午餐 (高CP值)</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pizzeria+Da+Franco+Pompei">Pizzeria Da Franco</a> 南義薄脆披薩</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Todisco+Pompei">Todisco</a> 排隊平價小吃</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trammiere+Pompei">Trammiere</a> 在地人狂推麵食</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pasta+e...+Pompei">Pasta e...</a> 手工義大利麵盒</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Mercato+Pompeiano">Mercato Pompeiano</a> 氣氛佳大份量</li>
+            </ul>
+          </div>
+          <div><strong class="text-amber-700 block mb-1">🥩 經典晚餐</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Garum+Pompei">Garum</a> 古羅馬魚露風味入菜</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=La+Bettola+Del+Gusto+Pompei">La Bettola Del Gusto</a> 評價極高南義菜</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Ristorante+President+Pompei">Ristorante President</a> 米其林星級精緻</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Na+Pasta+Pompei">Na Pasta</a> 舒適溫馨家常餐館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Add'u+Mimi+Pompei">Add'u Mimi</a> 傳統拿坡里海鮮披薩</li>
+            </ul>
+          </div>
+          <div><strong class="text-indigo-700 block mb-1">🍷 魅力酒吧</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Vincanto+Pompei">Vincanto</a> 教堂旁舒適酒館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Baccanale+Pompei">Baccanale</a> 氣氛熱絡啤酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pub+27+Pompei">Pub 27</a> 各國精釀啤酒</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Bosq+Pompei">Bosq</a> 現代感調酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Enoteca+Il+Calice+Pompei">Enoteca Il Calice</a> 專業葡萄酒專賣</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- 卡布里島 -->
+      <div class="bg-white rounded-xl border border-stone-200 shadow-sm p-3 card-avoid-break">
+        <h3 class="font-black text-stone-800 text-lg border-b border-amber-200 pb-1 mb-2">8. 📍 卡布里島 (Capri / Anacapri)</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div><strong class="text-emerald-700 block mb-1">🍝 午餐 (高CP值)</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pescheria+Le+Botteghe+Capri">Pescheria Le Botteghe</a> 鮮魚漢堡冷盤</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Capri+Pasta">Capri Pasta</a> 手工現包餃與麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Rosticceria+Capri">Rosticceria Capri</a> 烤雞與披薩切片</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Salumeria+Da+Aldo+Capri">Salumeria Da Aldo</a> 爆餡特製三明治</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Verginiello+Capri">Verginiello</a> 島上平價實惠老餐館</li>
+            </ul>
+          </div>
+          <div><strong class="text-amber-700 block mb-1">🥩 經典晚餐</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Aumm+Aumm+Anacapri">Aumm Aumm</a> (Anacapri) 島上最好吃披薩</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Da+Paolino+Capri">Da Paolino</a> 絕美檸檬樹下浪漫晚餐</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Panorama+Capri">Panorama</a> 無敵夜景與海鮮燉飯</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Buca+di+Bacco+Capri">Buca di Bacco</a> 巷弄隱密溫馨海鮮</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Ristorante+Michel'angelo+Capri">Michel'angelo</a> 卡布里傳統燉菜</li>
+            </ul>
+          </div>
+          <div><strong class="text-indigo-700 block mb-1">🍷 魅力酒吧</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Jacky+Bar+Capri">Jacky Bar</a> 復古電影風調酒</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Anema+e+Core+Capri">Anema e Core</a> 巨星愛去的歡樂酒館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=VV+Club+Capri">VV Club</a> 時尚派對夜店</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Bar+Tiberio+Capri">Bar Tiberio</a> 鐘樓廣場核心露天座</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Gran+Caffè+Vuotto">Gran Caffè Vuotto</a> 廣場上最經典咖啡調酒</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- 拿坡里 -->
+      <div class="bg-white rounded-xl border border-stone-200 shadow-sm p-3 card-avoid-break">
+        <h3 class="font-black text-stone-800 text-lg border-b border-amber-200 pb-1 mb-2">9. 📍 拿坡里 (Napoli)</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div><strong class="text-emerald-700 block mb-1">🍝 午餐 (高CP值)</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=L'Antica+Pizzeria+da+Michele">L'Antica Pizzeria da Michele</a> 茱莉亞羅勃茲名店</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Sorbillo+Naples">Sorbillo</a> 總是大排長龍的創意披薩</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Di+Matteo+Naples">Di Matteo</a> 炸披薩與炸飯糰極品</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Tandem+Ragù+Naples">Tandem</a> 只賣慢燉肉醬義麵的狂店</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pescheria+Azzurra+Naples">Pescheria Azzurra</a> 街邊超鮮炸海鮮筒</li>
+            </ul>
+          </div>
+          <div><strong class="text-amber-700 block mb-1">🥩 經典晚餐</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Da+Donato+dal+1956">Da Donato dal 1956</a> 百年海鮮番茄麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pizzeria+Starita+Naples">Starita</a> 炸披薩之王，在地人狂推</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pizzeria+Pellone+Naples">Pizzeria Pellone</a> 超巨無霸瑪格麗特</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trattoria+Da+Nennella">Trattoria Da Nennella</a> 服務生會唱歌的歡樂餐館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=50+Kalo+Naples">50 Kalò</a> 拿坡里面團發酵大師披薩</li>
+            </ul>
+          </div>
+          <div><strong class="text-indigo-700 block mb-1">🍷 魅力酒吧</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=L'Antiquario+Naples">L'Antiquario</a> 隱密無招牌冠軍調酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Cammarota+Spritz">Cammarota Spritz</a> €1 歐元 Spritz 超狂立飲</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Oak+Naples">Oak</a> 文青精釀啤酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Libreria+Berisio">Libreria Berisio</a> 舊書店改建紅酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Ba-Bar+Naples">Ba-Bar</a> 復古英倫風休閒酒館</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- 羅馬 -->
+      <div class="bg-white rounded-xl border border-stone-200 shadow-sm p-3 card-avoid-break">
+        <h3 class="font-black text-stone-800 text-lg border-b border-amber-200 pb-1 mb-2">10. 📍 羅馬 (Roma)</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div><strong class="text-emerald-700 block mb-1">🍝 午餐 (高CP值)</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pane+e+Salame+Rome">Pane e Salame</a> 許願池神級冷肉三明治</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pizza+Florida+Rome">Pizza Florida</a> 極度酥脆秤重切片披薩</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Pasta+Chef+Monti">Pasta Chef Monti</a> 銅板外帶濃培根蛋黃麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Alice+Pizza+Rome">Alice Pizza</a> 羅馬最高品質連鎖切片披薩</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Duecento+Gradi+Rome">Duecento Gradi</a> 梵蒂岡旁排隊帕尼尼</li>
+            </ul>
+          </div>
+          <div><strong class="text-amber-700 block mb-1">🥩 經典晚餐</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Osteria+da+Fortunata+Rome">Osteria da Fortunata</a> 手工現擀培根蛋黃麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Tonnarello+Rome">Tonnarello</a> 越夜越熱鬧鐵鍋義麵</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Cantina+e+Cucina+Rome">Cantina e Cucina</a> 羅馬人氣氣氛餐館</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Da+Enzo+al+29">Da Enzo al 29</a> 台伯河西岸超排隊在地菜</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Trattoria+Vecchia+Roma">Trattoria Vecchia Roma</a> 巨無霸火焰起司麵</li>
+            </ul>
+          </div>
+          <div><strong class="text-indigo-700 block mb-1">🍷 魅力酒吧</strong>
+            <ul class="space-y-1 text-stone-600 leading-tight">
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Drink+Kong+Rome">Drink Kong</a> 賽博龐克世界前50強</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=The+Jerry+Thomas+Project">Jerry Thomas Project</a> 羅馬最神祕地下酒吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Salotto+42+Rome">Salotto 42</a> 神殿前時髦看妹吧</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Freni+e+Frizioni+Rome">Freni e Frizioni</a> 車庫改建嗨吧附小點</li>
+              <li>• <a class="map-link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Bar+del+Fico+Rome">Bar del Fico</a> 榕樹下年輕人愛去立飲吧</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="text-center text-stone-400 text-xs mt-8 mb-4">
+    Francisco & Serena Italy 2026 • Platinum Ultimate Edition • Buon Viaggio!
+  </div>
+
+</body>
+</html>
